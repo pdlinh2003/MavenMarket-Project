@@ -4,7 +4,8 @@ I worked through the entire business intelligence workflow: connecting and shapi
 
 I've attached all of the files including:
 
-Maven Market Data.zip (zipped folder containing the CSV files I used to build your report)
+MavenMarketData.zip (zipped folder containing the CSV files I used to build your report)
 
-MavenMarket.sql 
+Maven_Market.sql 
 
+MavenMarketReport.pbix (dashboard I created)
